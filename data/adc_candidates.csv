@@ -1,0 +1,7 @@
+name,ED50_mgkg,f_payload,TD50_payload,HNSTD_HED_mgkg,note
+ADC-01,1.0,0.05,0.5,6.0,baseline — potent payload and stable linker
+ADC-02,1.0,0.15,0.5,6.0,unstable linker — more free payload and lower MTD
+ADC-03,3.0,0.05,0.5,6.0,low potency / low antigen — high MED
+ADC-04,0.3,0.05,0.5,8.0,high antigen and potent — wide window
+ADC-05,1.0,0.05,0.2,3.0,toxic payload — tox-limited MTD
+ADC-06,5.0,0.15,0.3,6.0,low potency plus unstable — no window

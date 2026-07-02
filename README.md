@@ -162,6 +162,12 @@ examples/          # multianalyte_pk.py, dose_selection.py
 figures/           # generated figures + the two ADC schematics
 tests/             # PK behaviour, the identifiability result, the decision rule
 ```
+## Companion repositories
+
+Three repos on one theme — **model-informed molecule selection**, using mechanistic PK/PD to choose between molecular designs before any clinical data exists:
+
+- [**bispecific-fih-dosability**](https://github.com/tjmb03/bispecific-fih-dosability) — the first-in-human question for an *immune-agonist bispecific*, where engagement itself is the hazard and MABEL/occupancy governs — the mirror image of this repo's toxicology paradigm.
+- [**ocular-tmdd-format-selection**](https://github.com/tjmb03/ocular-tmdd-format-selection) — *format selection* for a posterior-segment target: naked peptide vs Fab vs Fc-fusion on integrated target coverage, via a four-compartment intravitreal TMDD model with FcRn recycling.
 
 ## License
 
